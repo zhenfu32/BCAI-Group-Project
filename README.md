@@ -64,7 +64,7 @@ python main.py --model_name Personalized --data_path 'MNS_data_supplementary.csv
 
 Refer to the following optimal model hyperparameters obtained from our experiments:
 
-![image](https://github.com/zhenfu32/BCAI-Group-Project/tree/main/src/Optimal model parameters.png)
+![image](https://github.com/zhenfu32/BCAI-Group-Project/tree/main/src/Optimal_model_parameters.png)
 
 
 ### Hyperparameter Tuning
