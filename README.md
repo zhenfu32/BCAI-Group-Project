@@ -64,7 +64,7 @@ python main.py --model_name Personalized --data_path 'MNS_data_supplementary.csv
 
 Refer to the following optimal model hyperparameters obtained from our experiments:
 
-![image](Optimal model parameters.png)
+![image](./src/Optimal model parameters.png)
 
 
 ### Hyperparameter Tuning
